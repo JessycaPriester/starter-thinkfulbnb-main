@@ -72,6 +72,7 @@ header nav {
 
 header nav ul {
   display: flex;
+  padding-left: 0;
 }
 
 header nav ul li {
