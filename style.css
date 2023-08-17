@@ -108,10 +108,16 @@ form div{
   justify-content: space-between;
 }
 
-form select,
+form select {
+  display: flex;
+  justify-content: space-between;
+  width: 170px;
+}
+
 form input {
-  margin-bottom: 20px;
-  width: 180px;
+  padding-right: 15px;
+  justify-content: center;
+  width: 150px;
 }
 
 form button {
