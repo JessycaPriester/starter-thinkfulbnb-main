@@ -165,7 +165,10 @@ footer p {
     flex-direction: column;
   }
 
-
+  form input {
+    padding-right: 15px;
+  }
+  
   form select,
   form input {
     display: flex;
