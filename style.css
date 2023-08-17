@@ -154,7 +154,6 @@ footer p {
   form {
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px 10px 10px 10px;
